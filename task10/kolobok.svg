@@ -1,0 +1,28 @@
+<svg width="700" height="500"  
+  xmlns="http://www.w3.org/2000/svg">
+       <svg width="700" height="500"> 
+      <ellipse cx="290" cy="380" rx="80" ry="30" fill="rgba(179, 179, 179)"></ellipse>
+      <circle r="100" cx="42%" cy="55%" fill="orange"> </circle>
+      <circle r="30" cx="42%" cy="48%" fill="white"> </circle>
+      <circle r="30" cx="48%" cy="48%" fill="white"> </circle>
+      <circle r="6" cx="42%" cy="48%" fill="black"> </circle>
+      <circle r="6" cx="48%" cy="48%" fill="black"> </circle>
+      <circle r="10" cx="45%" cy="54%" fill="black"> </circle>
+      <ellipse cx="300" cy="310" rx="20" ry="10" fill="red"> </ellipse>
+      <ellipse cx="150" cy="290" rx="70" ry="20" fill="orange"> </ellipse>
+      <polygon points="280,180 230,210 230,160" fill="orange"></polygon>
+      <polygon points="370,210 320,190 350,160" fill="orange"></polygon>
+      <polygon points="265,180 235,190 235,170" fill="black"></polygon>
+      <polygon points="360,190 330,180 350,170" fill="black"></polygon>
+      <polygon points="110,300 85,290 110,280" fill="yellow"></polygon>
+
+
+      <ellipse cx="570" cy="380" rx="80" ry="30" fill="rgba(179, 179, 179)"></ellipse>
+      <circle r="100" cx="80%" cy="55%" fill="rgb(255, 234, 0)"> </circle>
+      <circle r="30" cx="75%" cy="48%" fill="white"> </circle>
+      <circle r="30" cx="80%" cy="48%" fill="white"> </circle>
+      <circle r="6" cx="75%" cy="48%" fill="black"> </circle>
+      <circle r="6" cx="80%" cy="48%" fill="black"> </circle>
+      <ellipse  cx="540" cy="310" rx="10" ry="15" fill="red"> </ellipse>
+    </svg>
+</svg>
