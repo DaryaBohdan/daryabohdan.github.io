@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?vxxe4q');
+  src:  url('fonts/icomoon.eot?vxxe4q#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?vxxe4q') format('truetype'),
+    url('fonts/icomoon.woff?vxxe4q') format('woff'),
+    url('fonts/icomoon.svg?vxxe4q#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook:before {
+  content: "\e900";
+  color: #1877f2;
+}
+.icon-youtube:before {
+  content: "\e901";
+  color: #f00;
+}
+.icon-instagram:before {
+  content: "\e902";
+  color: #e4405f;
+}
+.icon-telegram:before {
+  content: "\e903";
+  color: #2ca5e0;
+}
+.icon-viber:before {
+  content: "\e904";
+  color: #665cac;
+}
+.icon-instagram1:before {
+  content: "\e905";
+}
+.icon-facebook1:before {
+  content: "\e906";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-mobile:before {
+  content: "\e958";
+}
+.icon-airplane:before {
+  content: "\e9af";
+}
+.icon-earth:before {
+  content: "\e9ca";
+}
+.icon-vk:before {
+  content: "\ea98";
+}
+.icon-youtube2:before {
+  content: "\ea9e";
+}
